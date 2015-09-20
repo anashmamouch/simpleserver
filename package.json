@@ -1,0 +1,26 @@
+{
+  "name": "simpleserver",
+  "version": "0.0.1",
+  "description": "This is a very basic web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anashmamouch/simpleserver.git"
+  },
+  "keywords": [
+    "sever",
+    "simple",
+    "node",
+    "npm"
+  ],
+  "author": "Anas Hmamouch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anashmamouch/simpleserver/issues"
+  },
+  "homepage": "https://github.com/anashmamouch/simpleserver#readme"
+}
